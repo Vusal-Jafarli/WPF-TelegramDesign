@@ -1,0 +1,33 @@
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-TelegramApp\WPF-TelegramApp\bin\Debug\net6.0-windows\WPF-TelegramApp.exe
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-TelegramApp\WPF-TelegramApp\bin\Debug\net6.0-windows\WPF-TelegramApp.deps.json
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-TelegramApp\WPF-TelegramApp\bin\Debug\net6.0-windows\WPF-TelegramApp.runtimeconfig.json
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-TelegramApp\WPF-TelegramApp\bin\Debug\net6.0-windows\WPF-TelegramApp.dll
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-TelegramApp\WPF-TelegramApp\bin\Debug\net6.0-windows\WPF-TelegramApp.pdb
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-TelegramApp\WPF-TelegramApp\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-TelegramApp\WPF-TelegramApp\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-TelegramApp\WPF-TelegramApp\obj\Debug\net6.0-windows\WPF-TelegramApp_MarkupCompile.cache
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-TelegramApp\WPF-TelegramApp\obj\Debug\net6.0-windows\WPF-TelegramApp_MarkupCompile.lref
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-TelegramApp\WPF-TelegramApp\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-TelegramApp\WPF-TelegramApp\obj\Debug\net6.0-windows\WPF-TelegramApp.g.resources
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-TelegramApp\WPF-TelegramApp\obj\Debug\net6.0-windows\WPF-TelegramApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-TelegramApp\WPF-TelegramApp\obj\Debug\net6.0-windows\WPF-TelegramApp.AssemblyInfoInputs.cache
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-TelegramApp\WPF-TelegramApp\obj\Debug\net6.0-windows\WPF-TelegramApp.AssemblyInfo.cs
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-TelegramApp\WPF-TelegramApp\obj\Debug\net6.0-windows\WPF-TelegramApp.csproj.CoreCompileInputs.cache
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-TelegramApp\WPF-TelegramApp\obj\Debug\net6.0-windows\WPF-TelegramApp.dll
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-TelegramApp\WPF-TelegramApp\obj\Debug\net6.0-windows\refint\WPF-TelegramApp.dll
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-TelegramApp\WPF-TelegramApp\obj\Debug\net6.0-windows\WPF-TelegramApp.pdb
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-TelegramApp\WPF-TelegramApp\obj\Debug\net6.0-windows\WPF-TelegramApp.genruntimeconfig.cache
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-TelegramApp\WPF-TelegramApp\obj\Debug\net6.0-windows\ref\WPF-TelegramApp.dll
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-TelegramApp\WPF-TelegramApp\bin\Debug\net6.0-windows\Resource\indir.png
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-TelegramApp\WPF-TelegramApp\bin\Debug\net6.0-windows\Resource\search_icon.png
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-TelegramApp\WPF-TelegramApp\obj\Debug\net6.0-windows\WPF-TelegramApp_Content.g.cs
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-TelegramApp\WPF-TelegramApp\bin\Debug\net6.0-windows\Resource\pin2.png
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-TelegramApp\WPF-TelegramApp\bin\Debug\net6.0-windows\Resource\pin.png
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-TelegramApp\WPF-TelegramApp\bin\Debug\net6.0-windows\Resource\menu.png
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-TelegramApp\WPF-TelegramApp\bin\Debug\net6.0-windows\Resource\emoji (1).png
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-TelegramApp\WPF-TelegramApp\bin\Debug\net6.0-windows\Resource\microphone-black-shape.png
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-TelegramApp\WPF-TelegramApp\bin\Debug\net6.0-windows\Resource\office-push-pin (1).png
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-TelegramApp\WPF-TelegramApp\bin\Debug\net6.0-windows\Resource\multiple-users-silhouette.png
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-TelegramApp\WPF-TelegramApp\bin\Debug\net6.0-windows\Resource\smiling-face.png
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-TelegramApp\WPF-TelegramApp\bin\Debug\net6.0-windows\Resource\attachment.png
+C:\Users\jafar\OneDrive\Masaüstü\ara\WPF-TelegramApp\WPF-TelegramApp\bin\Debug\net6.0-windows\Resource\check-mark.png

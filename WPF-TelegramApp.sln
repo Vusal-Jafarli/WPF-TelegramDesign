@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF-TelegramApp", "WPF-TelegramApp\WPF-TelegramApp.csproj", "{B4CB102E-459C-474F-B2CC-058DB055F1DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4CB102E-459C-474F-B2CC-058DB055F1DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4CB102E-459C-474F-B2CC-058DB055F1DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4CB102E-459C-474F-B2CC-058DB055F1DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4CB102E-459C-474F-B2CC-058DB055F1DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {307D3A43-23A1-4AE0-B4F3-58349D2616B3}
+	EndGlobalSection
+EndGlobal
